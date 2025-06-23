@@ -1,0 +1,11 @@
+pandas
+numpy
+pydot
+pydot-ng
+graphviz
+scikit-learn
+tensorflow[and-cuda]
+tensorflow-text
+matplotlib
+tensorflow_hub
+tf-models-official
