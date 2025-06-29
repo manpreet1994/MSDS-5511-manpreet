@@ -1,0 +1,10 @@
+tensorflow-io
+pandas
+numpy
+jax
+matplotlib
+tensorflow[and-cuda]
+scikit-learn
+matplotlib
+pillow
+tensorflow-datasets
