@@ -8,3 +8,4 @@ scikit-learn
 matplotlib
 pillow
 tensorflow-datasets
+nbconvert
