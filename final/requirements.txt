@@ -1,0 +1,4 @@
+tensorflow[and-cuda]
+pandas
+numpy
+matplotlib
