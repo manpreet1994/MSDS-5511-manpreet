@@ -2,3 +2,4 @@ tensorflow[and-cuda]
 pandas
 numpy
 matplotlib
+nbconvert
